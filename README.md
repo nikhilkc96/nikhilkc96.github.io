@@ -22,8 +22,6 @@
   <img align="left" alt="Pawan's Facebook" width="42px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 
-</br>
-</br>
 
 ### I am a Developer, Entrepreneur, Designer, CyberSecurity Student at Unipd.
 
