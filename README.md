@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkc96&label=Views&color=blue&style=plastic" alt="nikhilkc96" /> </p>
 
 <div>
+</br>
 <a href="https://twitter.com/nikhilkc96">
   <img align="left" alt="Nikhil's Twitter" width="42px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
